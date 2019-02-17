@@ -22758,7 +22758,7 @@ function Home() {
   return _react2.default.createElement(
     'div',
     null,
-    'Componente HOME'
+    'Componente HOME :D | :D'
   );
 }
 
